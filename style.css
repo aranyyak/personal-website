@@ -1,0 +1,14 @@
+body{
+    margin:0;
+    font-family: 'Glory', sans-serif;
+}
+
+.intro{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+
+.half{
+    width: 500px;
+    padding-bottom: 100px;
+}
