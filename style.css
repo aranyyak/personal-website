@@ -97,9 +97,11 @@ section{
     padding: 5px;
     border-radius: 7px;
     color: whitesmoke;
+    width: 50%;
+    margin: 5% 25%;
     font-size: 25px;
     font-weight: 900;
-    background-position: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 
 }
